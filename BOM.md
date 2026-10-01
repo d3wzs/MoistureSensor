@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Esp32-c3 mini](https://www.amazon.ca/gp/product/B0GY9W29CK/ref=ox_sc_act_image_3?smid=A1367XLKQRPNXF&th=1) | Processing | 1 | $3.49 | $3.49 | [Amazon](https://www.amazon.ca/gp/product/B0GY9W29CK/ref=ox_sc_act_image_3?smid=A1367XLKQRPNXF&th=1) |
 | **Parts subtotal** | — | — | — | **$3.49** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$3.49** | — |
+| **Tax & shipping** | — | — | — | **$1.99** | — |
+| **Total** | — | — | — | **$5.48** | — |
 
-$26.51 left of the tier's funding.
+$24.52 left of the tier's funding.
