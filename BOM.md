@@ -16,7 +16,7 @@
 | [0.96" I2C SSD1306 OLED](https://www.amazon.ca/CANADUINO-OLED-Display-128x64-Pixel/dp/B077D4RQG1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A29AOP4GIE7DX6) | Displaying raw data and soil moisture status | 1 | $4.99 | $4.99 | [Amazon](https://www.amazon.ca/CANADUINO-OLED-Display-128x64-Pixel/dp/B077D4RQG1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A29AOP4GIE7DX6) |
 | [Capacitive Soil Moisture Sensor v1.2](https://www.amazon.ca/Corrosion-Capacitive-Connection-Intelligent-Monitoring/dp/B0GY4YHHQ1) | Detecting Soil Moisture | 1 | $7.39 | $7.39 | [Amazon](https://www.amazon.ca/Corrosion-Capacitive-Connection-Intelligent-Monitoring/dp/B0GY4YHHQ1) |
 | **Parts subtotal** | — | — | — | **$15.87** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.87** | — |
+| **Tax & shipping** | — | — | — | **$1.90** | — |
+| **Total** | — | — | — | **$17.77** | — |
 
-$14.13 left of the tier's funding.
+$12.23 left of the tier's funding.
