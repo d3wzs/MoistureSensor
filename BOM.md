@@ -15,7 +15,7 @@
 | [Esp32-c3 mini](https://www.amazon.ca/gp/product/B0GY9W29CK/ref=ox_sc_act_image_3?smid=A1367XLKQRPNXF&th=1) | Processing | 1 | $3.49 | $3.49 | [Amazon](https://www.amazon.ca/gp/product/B0GY9W29CK/ref=ox_sc_act_image_3?smid=A1367XLKQRPNXF&th=1) |
 | [Custom PCB](https://icantgivealinkforthis.com) | Connect and mount all project hardware | 1 | $2.10 | $2.10 | [JLCPCB](https://icantgivealinkforthis.com) |
 | **Parts subtotal** | — | — | — | **$5.59** | — |
-| **Tax & shipping** | — | — | — | **$1.99** | — |
-| **Total** | — | — | — | **$7.58** | — |
+| **Tax & shipping** | — | — | — | **$3.49** | — |
+| **Total** | — | — | — | **$9.08** | — |
 
-$22.42 left of the tier's funding.
+$20.92 left of the tier's funding.
